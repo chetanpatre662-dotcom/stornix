@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "559106793239",
+    "project_id": "stornix-59419",
+    "storage_bucket": "stornix-59419.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559106793239:android:258bdc8bf78a99d9742152",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559106793239-jp2v8eeapn91nnbr85uqsk998ngqtt7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_app",
+            "certificate_hash": "e10b716bdd74c1ab14a7f3312d115c4e1e7de3d8"
+          }
+        },
+        {
+          "client_id": "559106793239-qlm7p76gh5uvlk2h2e0lkk300tjh3i2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Oyv-F4q6E7DH-eZnM0WJAwXX_eiM2pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559106793239-qlm7p76gh5uvlk2h2e0lkk300tjh3i2g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559106793239-jsc449phkiccqjgs3sh4ca90u14oijm2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
